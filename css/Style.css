@@ -177,3 +177,9 @@ p {
     border-radius: 100%;
     margin: 20px;
 }
+
+.no-text-wrap {
+
+    overflow: hidden;
+
+}
